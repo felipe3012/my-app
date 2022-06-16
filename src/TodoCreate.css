@@ -1,0 +1,44 @@
+.tarea {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tarea__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.tarea__form--title {
+    font-size: 38px;
+}
+
+.tarea_img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    width: 500px;
+    padding: 10px;
+    border-style: none;
+}
+
+.button__primary{
+    padding: 10px;
+    width: 150px;
+    margin-top: 20px;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 15px;
+    border-color: rgb(202 230 150);
+    background-color: rgb(105 170 34);
+    cursor: pointer;
+}
+
+.image {
+    width: 450px;
+}
+

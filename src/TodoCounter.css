@@ -1,0 +1,19 @@
+
+.todocounter {
+    text-align: center;
+}
+
+.todocounter__title {
+    font-size: 4em;
+    font-weight: 800;
+    background: -webkit-linear-gradient(45deg, rgba(255,220,114,1), rgba(202,230,150,1) 80%);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+}
+
+.todocounter__tasks {
+    font-size: 1.5em;
+    font-weight: bold;
+}
